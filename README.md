@@ -8,3 +8,6 @@ A function called `get_met` should be implemented, taking `latitude` and `longit
 
 ## Hints
 met.no enforces a minimum level of "authentication". To access the API, any client must identify itself using a `"User-Agent"` field in the request header, e.g. `"User-Agent": "your_name email@example.com"`. Any requests without this will result in a  `403 Forbidden` error.
+
+## Submission
+Please do not send python files as attachment in an email, as they tend to get stopped by antivirus. Instead, publish the result in a github gist or repo or similar.
